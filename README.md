@@ -19,6 +19,11 @@ Note- Make sure the image has 4 channels(R,G,B,A).
 Use GetAlpha.py to get alpha channel for your image.
 Note- The code uses PIL library.
 
+*5.Grabcut-
+Use GrabCut.py to grab only the foreground part of the image.
+
+
+
 
 
 
