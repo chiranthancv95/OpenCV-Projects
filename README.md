@@ -25,7 +25,7 @@ Use GrabCut.py to grab only the foreground part of the image.
 *6.Object Size Finder-
 Use object_size.py to find the size of any object simlar to the reference object. Note- Please give the size of reference object in inches. Also,make sure both the reference object and target object are in the same image. For Demo puproses, 1.jpg can be used.
 
-
-
+*7.Distance To Camera-
+Use distance_to_camera.py to determine the distance from a known object in an image to our camera. Note - Prior to using the application, the marker's width and the distance to the camera should be known. The code was tested for 2ft.jpg as the marker image.
 
 
