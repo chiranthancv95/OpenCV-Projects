@@ -31,3 +31,7 @@ Use distance_to_camera.py to determine the distance from a known object in an im
 *8.Eye Detector-
 Use eye_detector.py to detect location of the human eye in an image.<br/>
 The loacton of the eye is represented as a rectangle.
+
+*9.Record From Webcam-
+Use record-video.py to record a video in your desired format and resolution.
+Currently, supported versions are .avi and.mp4.
